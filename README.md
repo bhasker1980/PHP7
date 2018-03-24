@@ -14,16 +14,27 @@ Instruction steps to install this application on our PC/server:
 
 File Sturcture:
 --testjob
+
 ----Instruction-Steps.txt (Instruction steps to install this application on our PC/server)
+
 ----assets(include all css/js)
+
 ----includes
+
 --------config.php(database configuration related function ie create new table, import sample data)
+
 --------footer.php (footer section to include js files)
+
 --------header.php (header section to include css files)
+
 --------function.php(includes function to read data from database table)
+
 --------connection.php (includes database connection setting, this file will be generated dynamically)
+
 ----index.php (main file to list data)
+
 ----setup.php (database configuration setup screen)
+
 
 
 
